@@ -1,0 +1,10 @@
+Flask==1.1.2
+click==7.1.2
+Werkzeug==1.0.1
+Jinja2==2.11.2
+itsdangerous==1.1.0
+MarkupSafe==1.1.1
+Flask_RESTful==0.3.8
+pdfkit==0.6.1
+flask-restplus==0.13.0
+deflate==0.3.0
